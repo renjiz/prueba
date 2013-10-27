@@ -7,6 +7,9 @@ public class Testing {
 		
 		 Estudiante estu = new Estudiante();
 		 estu.tonteria("kike", 31);
+		 
+		 Estudiante estu2 = new Estudiante("Rambo");
+		 estu2.constructor1();
 		
 		
 
